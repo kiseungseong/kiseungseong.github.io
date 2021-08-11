@@ -1,4 +1,4 @@
-# Welcome Kiseung Seong's Blog
+# Welcome To Kiseung Seong's Blog
 
 ## Capstone Design
 * Source Code Link (Back-End Server)
